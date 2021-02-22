@@ -1,0 +1,14 @@
+{
+  "name": "publish-repo-to-npm",
+  "version": "1.0.2",
+  "description": "An initial repository to startup publishing package to npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shaifali"
+  ],
+  "author": "shaifali kalia",
+  "license": "ISC"
+}
