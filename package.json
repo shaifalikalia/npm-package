@@ -1,6 +1,6 @@
 {
   "name": "publish-repo-to-npm",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "An initial repository to startup publishing package to npm ",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [
     "shaifali"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaifalikalia/npm-package.git"
+  },
   "author": "shaifali kalia",
   "license": "ISC"
 }
